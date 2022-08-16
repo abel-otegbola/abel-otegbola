@@ -2,8 +2,7 @@
 
 <h4>I am a Software developer with interest in building Web applications.</h4>
 
-
-Here are some ideas to get you started:
+<hr />
 
 - 🔭 I’m currently working on building Website templates.
 - 🌱 I’m currently learning Data Structures and Algorithms
