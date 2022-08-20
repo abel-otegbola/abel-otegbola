@@ -4,8 +4,7 @@
 
 <hr />
 
-- 🔭 I’m currently working on building Website templates.
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently learning Data Structures and Algorithms, also building up my portfolio.
 - 👯 I’m looking to collaborate on React and Next.js projects
 - 🤔 I’m looking for help with understanding Data Structures and Algorithms 
 - 💬 Ask me about CSS, JS, REACT and NEXT JS
