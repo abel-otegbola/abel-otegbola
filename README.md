@@ -13,49 +13,27 @@
 <hr />
 <h4>Tech Stack</h4>
 
-<p>
-  React: 
   <a href="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="20px" />
   </a>
-</p>
-<p>
-  Next: 
   <a href="https://github.com/devicons/devicon/blob/master/icons/react/nextjs-original.svg">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="20px" />
   </a>
-</p>
-<p>
-  Redux: 
   <a href="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="20px" />
   </a>
-</p>
-<p>
-  Javascript: 
   <a href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="20px" />
   </a>
-</p>
-<p>
-  Html: 
   <a href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="20px" />
   </a>
-</p>
-<p>
-  css: 
   <a href="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="20px" />
   </a>
-</p>
-<p>
-  Node js: 
   <a href="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="20px" />
   </a>
-</p>
-
 <hr />
 <h4>Github Stats</h4>
 
