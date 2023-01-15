@@ -4,11 +4,9 @@
 
 <hr />
 
-- 🌱 I’m currently learning Data Structures and Algorithms, also building up my portfolio.
-- 👯 I’m looking to collaborate on React and Next.js projects
-- 🤔 I’m looking for help with understanding Data Structures and Algorithms 
-- 💬 Ask me about CSS, JS, REACT and NEXT JS
-- ⚡ Fun fact: I love everything JS and Love music(classical music).
+- 🌱 I’m currently learning Next js.
+- 👯 I’m looking to collaborate on React and Next.js projects.
+- 💬 Ask me about CSS, JS, REACT.
 
 <hr />
 <h4>Tech Stack</h4>
