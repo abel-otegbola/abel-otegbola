@@ -4,8 +4,8 @@
 
 <hr />
 
-- 🌱 I’m currently learning Next js.
-- 👯 I’m looking to collaborate on React and Next.js projects.
+- 🌱 I’m currently learning Typescript.
+- 👯 I’m looking to collaborate on React, Next.js and Node.js projects.
 - 💬 Ask me about CSS, JS, REACT.
 
 <hr />
