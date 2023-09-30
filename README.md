@@ -11,27 +11,8 @@
 <hr />
 <h4>Tech Stack</h4>
 
-  <a href="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="20px" />
-  </a>
-  <a href="https://github.com/devicons/devicon/blob/master/icons/react/nextjs-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="20px" />
-  </a>
-  <a href="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="20px" />
-  </a>
-  <a href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="20px" />
-  </a>
-  <a href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="20px" />
-  </a>
-  <a href="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="20px" />
-  </a>
-  <a href="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="20px" />
-  </a>
+ 
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%23007FFF.svg?style=flat&logo=mui&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=flat&logo=redux&logoColor=%23D3D3D3) ![Tailwind](https://img.shields.io/badge/Tailwind-%2320232a.svg?style=flat&logo=tailwindcss) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=flat&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase) ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 <hr />
 <h4>Github Stats</h4>
 
