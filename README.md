@@ -4,7 +4,6 @@
 
 <hr />
 
-- 🌱 I’m currently learning React Native and UI/UX Design principles.
 - 👯 I’m looking to collaborate on React, Next.js and Node.js projects.
 - 💬 Ask me about CSS, JS, REACT, NEXT.JS, Tailwind-css.
 
